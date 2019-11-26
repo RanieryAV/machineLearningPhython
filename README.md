@@ -1,4 +1,4 @@
-# machineLearningPhython
+# machineLearningPython
 Referente ao trabalho prático 2 de Python da disciplina de Técnicas de Programação (UFC). É digno de nota que apenas a parte 1 do trabalho foi feita.
 
 #### Pré-requisitos para uso dos códigos-fontes:
